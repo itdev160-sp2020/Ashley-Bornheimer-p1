@@ -1,0 +1,29 @@
+body {
+    font-family: Georgia, serif;
+    color: rgb(2, 2, 10);
+}
+
+h1 {
+    color: rgb(236, 233, 236);
+    background-color: rgb(15, 7, 7);
+}
+
+img {
+    height:300px;
+    text-align:center;
+}
+
+figcaption span {
+    font-size: .85em;
+}
+
+p#product-description { 
+    margin: 20px 0 20px 0;
+    text-align: justify;
+}
+
+div.review {
+    padding: 5px;
+    background-color: #4dd4ab;
+    margin: 10px 0 10px 0;
+}
